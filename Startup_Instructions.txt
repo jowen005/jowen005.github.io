@@ -1,3 +1,9 @@
 Startup Instructions
 
 Click the Prototype link on the page.
+
+Red icon is the user (does nothing)
+
+Blue icons are the handicap entrances (can be selected to open)
+
+Red X cancels handicap entrance selection
